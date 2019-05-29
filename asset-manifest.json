@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tictac_game/static/css/main.a9827d45.chunk.css",
+    "main.js": "/tictac_game/static/js/main.04005dec.chunk.js",
+    "main.js.map": "/tictac_game/static/js/main.04005dec.chunk.js.map",
+    "runtime~main.js": "/tictac_game/static/js/runtime~main.0e1f545d.js",
+    "runtime~main.js.map": "/tictac_game/static/js/runtime~main.0e1f545d.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/tictac_game/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/tictac_game/static/js/2.0e3f6a1a.chunk.js.map",
+    "index.html": "/tictac_game/index.html",
+    "precache-manifest.56e4f680b9f08d0235d23138ca7fa8b4.js": "/tictac_game/precache-manifest.56e4f680b9f08d0235d23138ca7fa8b4.js",
+    "service-worker.js": "/tictac_game/service-worker.js",
+    "static/css/main.a9827d45.chunk.css.map": "/tictac_game/static/css/main.a9827d45.chunk.css.map"
+  }
+}
